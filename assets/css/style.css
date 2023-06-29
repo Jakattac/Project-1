@@ -8,5 +8,8 @@ body {
 
 h1,
 h2 {
-    font-family: Overpass, sans-serif;
+    font-family: EB Garamond, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #255100;
 }
